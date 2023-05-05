@@ -6,6 +6,7 @@ In our project, we aimed to create a GIMP-like application that allows users to 
  - overlapping multiple images
  - loading projects so users can continue where   they left off
  - saving an image as a jpg, png, or ppm filters
+
 Our application has two interfaces, a text-based interface and a graphical interface. Users can choose between these interfaces through terminal (details will be mentioned in USEME.md). Currently, when trying to add an image downloaded from the internet at a position other than (0, 0), the image will not show up until the user adds in another layer. At this moment, we couldn't solve the issue. However, when adding images such as tako.ppm or purple-background.ppm, the positional offset works correctly. Furthermore, this version only supports a max dimension of 800 (height) x 600 (width). This was done because our largest given image was of this dimension. If users input a larger dimension, the canvas will be cropped at the 800 x 600 pixel.
 
 ## Requirements
