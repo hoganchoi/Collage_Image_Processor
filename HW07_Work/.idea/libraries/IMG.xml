@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="IMG">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/res/IMG.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
