@@ -69,6 +69,6 @@ In the misc package, we have the following classes:
 
 
 ## Authors
- - [@hoganchoi](https://github.com/piggytoad)
+ - [@hoganchoi](https://github.com/hoganchoi)
  - [@sidarthkulkarni](https://github.com/ksidarth)
 
