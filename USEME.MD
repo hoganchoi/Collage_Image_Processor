@@ -38,7 +38,7 @@ The following are the command-lines that are used in the text-based interface:
 When loading the graphical user interface, the user will be greeted with a window with buttons acting
 as the text-based command lines. Users can then use the provided action buttons to add and edit images.
 An example of a workspace using our application will look something like below.
-![Alt text](\example_images\GUI-Working.png)
+![Alt text](.\example_images\GUI-Working.png)
 Each action in the interface does the following:
  - New Project: creates a new collage project
  - Load Project: loads in a collage project
